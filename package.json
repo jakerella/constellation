@@ -1,0 +1,19 @@
+{
+  "name": "constellation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A star-themed graph pattern matching game.",
+  "main": "server/index.js",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "@jakerella",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
